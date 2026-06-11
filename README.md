@@ -1,0 +1,1 @@
+# agro.pract.trash_classifier
